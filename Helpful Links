@@ -1,0 +1,16 @@
+R main website - https://www.r-project.org/
+
+R download - https://cran.r-project.org/mirrors.html
+
+R Studio (Objectively the best R IDE) - https://www.rstudio.com/products/rstudio/download/
+
+Python main website - https://www.python.org/
+
+Python download - https://wiki.python.org/moin/Python2orPython3
+***Be Careful*** Both python 2 and python 3 are currently used and many scripts are not intercompatible. I recommend downloading both and using the "py" function to run the script as it attempts to use the correct version
+  - Most Unix based operating systems (Mac OSX, Linux) have at least python 2 pre-installed
+
+Set environmental paths for python 2 (Only required for Windows operating systems) - https://docs.python.org/2/using/windows.html
+Set environmental paths for python 2 (Only required for Windows operating systems) - https://docs.python.org/3/using/windows.html
+
+PyCharm (A popular python IDE) - https://www.jetbrains.com/pycharm/
