@@ -16,7 +16,9 @@ A place to upload and store data analysis scripts
                                                       | |                               __/ |
                                                       |_|                              |___/ 
 
-With the popularity of programs like R and Python increases researchers are starting to build their own personal library of scripts for data cleaning, management, and analysis in the same way they build a library of research articles. The purpose of this repository is to pool these scripts on a program wide level. 
+With the popularity of programs like R and Python increases researchers are starting to build their own personal library of scripts 
+for data cleaning, management, and analysis in the same way they build a library of research articles. 
+The purpose of this repository is to pool these scripts on a program wide level. 
 
 ******************************This project relies on collaboration to be successful******************************
 
