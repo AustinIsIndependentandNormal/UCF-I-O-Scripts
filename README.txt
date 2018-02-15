@@ -25,6 +25,8 @@ The purpose of this repository is to pool these scripts on a program wide level.
 Please upload any scripts you have that could potentially help other students.
 This can be done by either:
   - Submitting a new pull request (make sure the script is added to the appropriate subfolder)
+    https://help.github.com/articles/creating-a-pull-request/
+  
   - E-mailing Austin Carter at Austin.Carter@knights.ucf.edu (please include the appropriate subfolder location in the e-mail)
 
 
@@ -69,7 +71,8 @@ RRRRRRRR     RRRRRRR    uuuuuuuu  uuuullllllll    eeeeeeeeeeeeee    sssssssssss
      <\__ __/>    <\__ __/>   / \   / \   <\__     <\__  / \    _\o__</   <\__  
                                                                                 
                                                                                 
-Issues/questions specific to scripts already in the repository should be submitted using github's issues feature located near the top of the page
+Issues/questions specific to scripts already in the repository should be submitted using github's issues feature located near the top of the page.
+  https://help.github.com/articles/creating-an-issue/
 
 General issues/questions or issues/questions relating to not yet uploaded scripts can be directed to Austin.Carter@knights.ucf.edu
 
