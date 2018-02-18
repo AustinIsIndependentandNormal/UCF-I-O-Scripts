@@ -1,0 +1,1 @@
+R scripts to aid in data visualization. Scripts primarilly focus on the use of Shiny and ggplot2. Sample data can be found in the sample data folder. Match the file names with the file names in the r script to identify the appropriate sample data
